@@ -1,0 +1,9 @@
+{
+  "name": "recipe-book",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "latest", "react": "latest", "react-dom": "latest", "react-router-dom": "latest", "lucide-react": "latest", "tailwindcss": "^4.0.0", "@tailwindcss/vite": "^4.0.0" },
+  "devDependencies": {}
+}
